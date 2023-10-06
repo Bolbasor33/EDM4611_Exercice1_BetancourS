@@ -1,4 +1,9 @@
 700 mots
+/*
+L'impact des CropCircles.
+Je me suis toujours intéressé à la création de ces objets curieux. C'est des créations dites extraterrestres qui apparaissent en quelques secondes dans les champs de foin ou autre endroit éloigné en région.
+L'idée initiale était de créer des crop circles de style morphing entre eux avec une trainée vers l'arrièere. Je n'ai pas réussis èa transformer les images 2D en objets 3d pour leurs donner d'autres propriétés.
+*/
 Comment on a découpé le projet en étapes.
 Expliquer le cheminement mental
 But du projet
